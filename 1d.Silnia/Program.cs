@@ -10,4 +10,21 @@ class MainClass
         Console.WriteLine(factorial); // 120
         Console.ReadLine();
     }
+    
+//  ---------------------------------lub-----------------------------------------------   
+
+//     private static long silnia(int n)
+//     {
+//         if (n == 0)
+//         {
+//             return 1;
+//         }
+//         else
+//         {
+//             return n * silnia(n - 1);
+//         }
+//     }
+
 }
+
+
